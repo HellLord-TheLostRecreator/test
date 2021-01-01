@@ -1,0 +1,2 @@
+wfLoadSkin( 'Purple' );
+$wgDefaultSkin = "purple";
